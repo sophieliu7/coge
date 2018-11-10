@@ -1,11 +1,11 @@
 // Import Google fonts
-@import url("https://fonts.googleapis.com/css?family=Megrim");
+@import url("https://fonts.googleapis.com/css?family=Megrim|Open+Sans|Roboto");
 
 
 
 // Define fonts for body and headers
-$body-font:  "sans-serif";
-$headers-font: "Megrim", "sans-serif";
+$body-font: "Roboto" , "sans-serif";
+$headers-font: "Megrim", "cursive";
 
 
 
@@ -19,3 +19,4 @@ $headers-font: "Megrim", "sans-serif";
 //        font-url('FontFile.ttf') format('truetype')
 // }
 // $my-font: "Font Name";
+
